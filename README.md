@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="cws_assets/store_icon_128.png" alt="BrainTab Logo" width="128">
+  <img src="store_icon_128.png" alt="BrainTab Logo" width="128">
 
   # 🧠 BrainTab
 
   **Your Browser Needs a Second Brain.**
 
-  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=googlechrome)](https://chrome.google.com/webstore)
+  [![Chrome Web Store]()
 
   <p align="center">
-    <img src="cws_assets/marquee_tile_1400x560.jpg" alt="BrainTab Banner" width="100%">
+    <img src="marquee_tile_1400x560.jpg" alt="BrainTab Banner" width="100%">
   </p>
 
   <p align="center">
