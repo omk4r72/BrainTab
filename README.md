@@ -48,9 +48,8 @@ Experience your knowledge like never before. BrainTab connects related concepts 
 ### ⚡ Automatic Summarization & Tagging
 Never manually tag a bookmark again. As you browse, BrainTab automatically generates concise summaries and extracts key entities (tools, concepts, people) from the page.
 
-### 🛡️ 100% Private & Portable
-Your data belongs to you. Export your entire Second Brain to JSON or PDF at any time. Need to browse privately? Simply toggle **Incognito Mode** to instantly pause memory capture.
 ---
+
 <div align="center">
   <i>Built with ❤️ for deep thinkers and researchers.</i>
 </div>
