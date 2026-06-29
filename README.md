@@ -42,7 +42,7 @@ Stop switching tabs to use ChatGPT. Kira lives in your side panel, follows you a
 Experience your knowledge like never before. BrainTab connects related concepts and visualizes your research in a beautiful, interactive GraphQL interface. See how your thoughts connect in real-time.
 
 <p align="center">
-  <img src="screenshot3.jpg" alt="Knowledge Graph" width="80%">
+  <img src="Screenshot5.jpg" alt="Knowledge Graph" width="80%">
 </p>
 
 ### ⚡ Automatic Summarization & Tagging
