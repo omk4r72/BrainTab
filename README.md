@@ -6,8 +6,6 @@
   **Your Browser Needs a Second Brain.**
 
   [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=googlechrome)](https://chrome.google.com/webstore)
-  [![Version](https://img.shields.io/badge/Version-1.0.1-brightgreen.svg)]()
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   <p align="center">
     <img src="cws_assets/marquee_tile_1400x560.jpg" alt="BrainTab Banner" width="100%">
@@ -54,37 +52,6 @@ Your data belongs to you. Export your entire Second Brain to JSON or PDF at any 
 <p align="center">
   <img src="cws_assets/screenshot5.jpg" alt="Settings & Privacy" width="80%">
 </p>
-
----
-
-## 🛠️ Installation (Developer Mode)
-
-If you want to run BrainTab locally from source:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/braintab.git
-   ```
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Enable **Developer mode** (toggle in the top right corner).
-4. Click **Load unpacked** and select the cloned `braintab` extension directory.
-5. Pin the extension to your toolbar and open the Chrome Side Panel!
-
----
-
-## 💻 Tech Stack
-
-- **Frontend UI:** Vanilla JS, HTML5, CSS3 (Glassmorphism & Neon Design)
-- **Visualization:** 3D Force-Directed Graph (D3.js / ForceGraph)
-- **Storage:** `chrome.storage.local` (Local-first architecture)
-- **AI Engine:** DeepSeek AI API integration for summarization and chat
-- **Background Processes:** Chrome Manifest V3 Service Workers
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
