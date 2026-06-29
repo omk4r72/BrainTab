@@ -50,11 +50,6 @@ Never manually tag a bookmark again. As you browse, BrainTab automatically gener
 
 ### 🛡️ 100% Private & Portable
 Your data belongs to you. Export your entire Second Brain to JSON or PDF at any time. Need to browse privately? Simply toggle **Incognito Mode** to instantly pause memory capture.
-
-<p align="center">
-  <img src="screenshot5.jpg" alt="Settings & Privacy" width="80%">
-</p>
-
 ---
 <div align="center">
   <i>Built with ❤️ for deep thinkers and researchers.</i>
