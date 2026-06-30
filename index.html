@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrainTab | Your Browser Needs a Second Brain</title>
+    <meta name="description" content="BrainTab is an AI-powered Chrome extension that automatically remembers, summarizes, and connects everything you read into an intelligent, interactive knowledge graph.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="store_icon_128.png">
+</head>
+<body>
+    <!-- Background glowing orbs -->
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
+    
+    <nav class="navbar glass-effect">
+        <div class="nav-content">
+            <div class="logo">
+                <img src="store_icon_128.png" alt="BrainTab Logo" class="logo-img">
+                <span class="logo-text">BrainTab</span>
+            </div>
+            <div class="nav-links">
+                <a href="#features">Features</a>
+                <a href="privacy.html">Privacy</a>
+                <a href="https://chrome.google.com/webstore" class="btn btn-primary nav-btn">Get BrainTab</a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero animate-on-scroll">
+            <div class="hero-badge">
+                <span class="badge-icon">✨</span>
+                <span>AI-Powered Second Brain</span>
+            </div>
+            <h1 class="hero-title">Your Browser Needs a <span class="text-gradient">Second Brain.</span></h1>
+            <p class="hero-subtitle">Never lose track of your tabs again. BrainTab silently reads, understands, and visualizes your knowledge instantly.</p>
+            <div class="hero-cta">
+                <a href="https://chrome.google.com/webstore" class="btn btn-primary btn-large">
+                    Install for Chrome
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                </a>
+            </div>
+            <div class="hero-image-container glass-card">
+                <img src="marquee_tile_1400x560.jpg" alt="BrainTab Interface Preview" class="hero-image">
+            </div>
+        </section>
+
+        <section id="features" class="features">
+            <div class="section-header animate-on-scroll">
+                <h2 class="section-title">Stop losing information.</h2>
+                <p class="section-desc">Experience frictionless knowledge management as you browse.</p>
+            </div>
+
+            <div class="bento-grid">
+                <!-- Feature 1: Kira -->
+                <div class="bento-card col-span-2 animate-on-scroll glass-card">
+                    <div class="card-content">
+                        <div class="card-text">
+                            <h3>Meet Kira: Your AI Copilot</h3>
+                            <p>Stop switching tabs to use ChatGPT. Kira lives in your side panel, follows you across websites, and knows exactly what page you are reading.</p>
+                        </div>
+                        <div class="card-visual">
+                            <img src="screenshot2.jpg" alt="Kira AI Chat">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 2: Knowledge Graph -->
+                <div class="bento-card col-span-2 animate-on-scroll glass-card">
+                    <div class="card-content row-reverse">
+                        <div class="card-text">
+                            <h3>Visual Knowledge Graph</h3>
+                            <p>Experience your knowledge like never before. BrainTab connects related concepts and visualizes your research in a beautiful, interactive GraphQL interface.</p>
+                        </div>
+                        <div class="card-visual">
+                            <img src="Screenshot5.jpg" alt="Knowledge Graph">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 3: Auto-Tagging -->
+                <div class="bento-card col-span-full animate-on-scroll glass-card text-center auto-tag-card">
+                    <h3>⚡ Automatic Summarization & Tagging</h3>
+                    <p>Never manually tag a bookmark again. As you browse, BrainTab automatically generates concise summaries and extracts key entities from the page.</p>
+                    <div class="tags-container">
+                        <span class="tag">#AI</span>
+                        <span class="tag">#Productivity</span>
+                        <span class="tag">#Research</span>
+                        <span class="tag">#KnowledgeGraph</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="bottom-cta animate-on-scroll">
+            <div class="glass-card cta-card">
+                <h2>Ready to upgrade your mind?</h2>
+                <p>Join the future of browsing today.</p>
+                <a href="https://chrome.google.com/webstore" class="btn btn-primary btn-large">Add to Chrome - It's Free</a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer border-t">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <img src="store_icon_128.png" alt="BrainTab Logo" width="32">
+                <span>BrainTab</span>
+            </div>
+            <div class="footer-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="https://github.com/omk4r72/BrainTab">GitHub</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>Built with ❤️ by Omkar Chavhan for deep thinkers and researchers.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
